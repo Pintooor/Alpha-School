@@ -262,6 +262,14 @@ table{
     font-size: 2rem;
     margin-bottom: 1rem;
 }
+.itss{
+    padding-top: 80px;
+}
+@media screen and (max-width: 855px) {
+    .itss{
+        padding-top: 1px;
+    }
+}
 /* ------------------------------- */
 /* ------------ footer ---------- */
 .footer{
